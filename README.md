@@ -27,8 +27,7 @@ This project focuses on **real estate price prediction** using machine learning 
 ### 4. **Project Documentation**
 
 - `Case Study.docx` - Business problem, objectives, and expected outcomes.
-- `How This Shows Advanced Skills.docx` - Explanation of how the project showcases data science and BI expertise.
-
+  
 ### 5. **Code & Scripts**
 
 - `web.py` - Python script, possibly for web-based deployment.
