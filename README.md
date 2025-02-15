@@ -56,4 +56,4 @@ This project demonstrates expertise in **machine learning, data analysis, and Po
 
 **Author:** Tech Home Analytics
 
-make by kiran
+made by kiran
